@@ -1,2 +1,2 @@
 # javascript-Hitesh
-A repository that i am using for my learning purpose
+A repository that i am using for shrapening my js
