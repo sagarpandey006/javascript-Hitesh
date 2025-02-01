@@ -61,7 +61,7 @@ const course = {
     courseInstructor: "hitesh"
 }
 
-// course.courseInstructor
+ course.courseInstructor
 
 const {courseInstructor: instructor} = course
 
